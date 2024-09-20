@@ -1,7 +1,7 @@
 # Flow Control - Extra Challenge
 Below are a set of additional challenges on flow control
 
-These are deliberatly a challenge, so do not be discouraged if you struggle - perservere and seek help when you need it
+These are deliberately a challenge, so do not be discouraged if you struggle - persevere and seek help when you need it
 
 You are free to use all control structures we have looked at - for, while, if, match
 
